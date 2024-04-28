@@ -1,0 +1,13 @@
+{
+  "name": "com.soundlightinteractive.eventsystem",
+  "displayName": "Soundlight Interactive Event System",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "author": "Soundlight Interactive",
+  "description": "This is an event system to make communicate scripts which not linked each other.",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Soundlight-Interactive/com.soundlightinteractive.eventsystem.git"
+  }
+}
